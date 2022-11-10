@@ -1,0 +1,48 @@
+body {
+    font-family: 'Poppins';
+}
+
+.textoAzul {
+    color: #242f51;
+}
+
+.bg-to-add {
+    background-image: url(./bootstrap5/img/Vector_Smart_Object2.png), url(./bootstrap5/img/Layer_5.png);
+    background-repeat: no-repeat;
+    background-position: bottom;
+    background-size: contain;
+}
+
+#titulo-inicio {
+    font-size: 60px;
+}
+
+.textoCinza {
+    color: #616368;
+}
+
+.btnAzul {
+    background-color: #2500f9;
+    color: #ddd;
+    padding: 12px 20px;
+    border-radius: 25px;
+    border: none;
+}
+
+.btnAzul:hover {
+    background-color: #fcae61;
+    color: #ddd;
+    padding: 12px 20px;
+    border-radius: 25px;
+    border: none;
+}
+
+.btnBranco {
+    color: #2500f9;
+    border: none;
+}
+
+.btnBranco:hover {
+    color: #fcae61;
+    border: none;
+}
