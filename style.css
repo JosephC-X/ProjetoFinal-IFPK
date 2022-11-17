@@ -46,3 +46,88 @@ body {
     color: #fcae61;
     border: none;
 }
+
+#second {
+    padding: 100px;
+}
+
+.padding-motives {
+    padding: 0 30px;
+}
+
+.motives-row {
+    margin: 70px;
+}
+
+#third {
+    padding: 100px 0;
+}
+
+#fourth {
+    padding: 100px 0;
+}
+
+.accordion-button {
+    background-color: #f5f6fa;
+    color: #242f51;
+    font-weight: bold;
+    padding: 25px 50px;
+}
+
+.accordion-button:not(.collapsed) {
+    background-color: #f5f6fa;
+    color: #242f51;
+    font-weight: bold;
+    box-shadow: none;
+
+}
+
+.accordion-item {
+    margin-top: 15px;
+    border: none;
+}
+
+.accordion-body {
+    background-color: #f5f6fa;
+    color: #616368;
+    padding: 0px 50px;
+
+}
+
+#fifth {
+    padding-top: 100px;
+}
+
+.rodape {
+    padding-top: 100px;
+    padding-bottom: 150px;
+    background-color: #242f51;
+    margin-top: -30px;
+}
+
+#menu-rodape li {
+    display: inline-block;
+    color: #eee;
+    padding: 0 25px;
+    margin-left: -25px;
+    font-weight: bold;
+}
+
+#menu-rodape {
+    margin-top: 30px;
+}
+
+#marcas li {
+    display: inline-block;
+    color: #616368;
+    padding: 0 25px;
+    font-size: 30px;
+}
+
+#marcas li:hover {
+    color: #eee;
+}
+
+.direitos {
+    margin-top: 60px;
+}
